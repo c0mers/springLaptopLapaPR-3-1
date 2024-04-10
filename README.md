@@ -1,1 +1,4 @@
-# springLaptopLapaPR-3-1
+Spring JPA
+Лапа Павло
+ПР-3-1
+Варіант 5
